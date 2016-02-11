@@ -1,4 +1,4 @@
-# Node Template
-The Standard template of open-source node module.
+# MongoESBacktrack
+This is the project which check for the missing document in Elasticsearch compare to Mongodb
 
-[![Build Status](https://travis-ci.org/zanroo/node-template.svg?branch=master)](https://travis-ci.org/zanroo/node-template)
+[![Build Status](https://travis-ci.org/zanroo/MongoESBacktrack.svg?branch=master)](https://travis-ci.org/zanroo/MongoESBacktrack)

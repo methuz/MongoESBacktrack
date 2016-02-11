@@ -1,7 +1,8 @@
 {
-  "name": "node-template",
+  "name": "MongoESBacktrack",
   "version": "0.0.1",
   "description": "Node template",
+
   "main": "index.js",
   "directories": {
     "test": "test"

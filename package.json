@@ -27,6 +27,7 @@
     "mocha": "^2.3.3"
   },
   "dependencies": {
-    "js-yaml": "^3.5.2"
+    "js-yaml": "^3.5.2",
+    "mongodb": "^2.1.7"
   }
 }
